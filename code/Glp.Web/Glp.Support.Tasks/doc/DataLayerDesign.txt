@@ -1,0 +1,23 @@
+﻿
+
+
+Data Layer
+----------------------------------------------
+API Service 
+	- ADO.NET
+	- NoSql
+		- Mongo
+		- Redis
+		- Raven
+	- Search Engine
+		- Elastic Search
+		- SOLR
+	- Feed
+	- Text (Json, Xml, Csv)
+
+ADO.NET (direct or not)
+	- SQL Server
+	- MySql
+----------------------------------------------
+
+	
